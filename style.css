@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  line-height: 30%;
+}
+#change{
+  text-align: center;
+  font-size: 5ch;
+}
+body{
+  text-align: center;
+}
+.b{
+  width: 50%;
+  height: 100%;
+}
+#en{
+  color: aqua;
+}
+#ko{
+  color: blue;
+}
